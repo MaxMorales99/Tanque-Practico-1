@@ -1,0 +1,6 @@
+nombre="enrique barros fernández".title()
+fraseminusculas="Esta Es Una Frase Para Ser Formateada.".lower()
+fraseMayusculas="Esta Es Una Frase Para Ser Formateada.".upper()
+print(nombre)
+print(fraseminusculas)
+print(fraseMayusculas)
